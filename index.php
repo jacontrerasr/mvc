@@ -6,7 +6,7 @@
     <title>trabajo mvc</title>
 </head>
 <body>
-    <h1>Hola profesora aqui presento mi trabajo modelo vista controlador</h1>
+    <h1 class="text center">Hola profesora presento mi trabajo modelo vista controlador</h1>
 <?php
 
 
