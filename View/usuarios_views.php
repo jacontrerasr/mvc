@@ -13,7 +13,9 @@
     
         foreach ($datos as $dato){
 
-            echo $dato["nombre"]."<br/>";
+            echo $dato["Nombre"]." ";
+            echo $dato["Apellido"]." ";
+            echo $dato["Correo"] . "<br/>";
         }
     
     
